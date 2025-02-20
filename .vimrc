@@ -7,6 +7,9 @@ set number
 " Enable mouse support
 set mouse=a
 
+" Enable Case-Insensitive Search
+set ignorecase
+
 " Set tabs and spaces
 set tabstop=4
 set shiftwidth=4
